@@ -51,7 +51,8 @@
 
 ## 최종 결과물
 - 도서 구매 데이터를 기반으로 출판사와 서점이 참고할 수 있는 도서 추천 시스템 완성.
-- 프로젝트 시연: [시연 영상 링크](https://drive.google.com/file/d/1yp2KvddcPthsn0Y7itaHEFay7ueVpCR-/view?usp=drive_link)
+- 
+---
 
 ## 발표자료
 - [발표 자료 (PDF)](https://github.com/wjsghk1267/1st_team_project/blob/main/%EC%B6%9C%ED%8C%90%EC%82%AC%2C%20%EC%A7%80%EC%97%AD%20%EC%84%9C%EC%A0%90%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8F%84%EC%84%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
