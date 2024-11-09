@@ -55,5 +55,5 @@
 ---
 
 ## 발표자료
-- [발표 자료 (PDF)](https://github.com/wjsghk1267/1st_team_project/blob/main/wallpaper/%EC%B6%9C%ED%8C%90%EC%82%AC%2C%20%EC%A7%80%EC%97%AD%20%EC%84%9C%EC%A0%90%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8F%84%EC%84%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+- [발표 자료 (PDF)](https://github.com/wjsghk1267/1st_team_project/raw/main/wallpaper/%EC%B6%9C%ED%8C%90%EC%82%AC%2C%20%EC%A7%80%EC%97%AD%20%EC%84%9C%EC%A0%90%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%8F%84%EC%84%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 - [발표 영상](https://drive.google.com/file/d/1hETL3ZwedPm6i4IAdPWtFVm6Qh1kW2XZ/view?usp=drive_link)
